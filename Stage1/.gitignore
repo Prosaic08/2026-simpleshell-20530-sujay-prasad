@@ -1,0 +1,3 @@
+bin/simpleshell
+src/*.o
+commands.txt
