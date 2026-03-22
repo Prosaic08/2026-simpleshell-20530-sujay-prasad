@@ -1,0 +1,11 @@
+Stage2/bin/
+Stage2/src/*.o
+Stage2/echo.txt
+Stage2/env.txt
+Stage2/files.txt
+Stage2/out.txt
+dir.txt
+echo.txt
+env.txt
+out.txt
+sorted.txt
