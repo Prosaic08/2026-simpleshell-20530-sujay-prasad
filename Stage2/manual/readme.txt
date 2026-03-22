@@ -1,5 +1,8 @@
 SimpleShell (Stage 2) Manual
 
+NOTE: I only have 1 file in Stage1/src, however in Stage2/src, I have split the file from Stage1 into 3 seperate files.
+
+
 NAME
 simpleshell - a simple command interpreter (Stage 2)
 
